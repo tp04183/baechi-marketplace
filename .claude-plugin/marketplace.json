@@ -1,0 +1,12 @@
+{
+  "name": "baechi-marketplace",
+  "owner": { "name": "건축사사무소광장" },
+  "metadata": { "description": "광장 사내 배치표 작성용 플러그인 마켓플레이스" },
+  "plugins": [
+    {
+      "name": "baechi-table",
+      "source": "./baechi-table",
+      "description": "감리원 배치계획표 자동 작성 (배치표 원본 + 입찰설명서 → 완성 배치표)"
+    }
+  ]
+}
